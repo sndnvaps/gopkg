@@ -12,7 +12,7 @@
         - flate       : ###				-
         - gzip        : Unknown			2013-03-11
         - lzw         : ###				-
-        - zlib        : ###				-
+        - zlib        : lingdecong		2014-11-27
     container         : weager			2013-03-10
         - heap        : weager			2013-03-10
         - list        : weager			2013-03-10
@@ -58,7 +58,7 @@
         - xml         : 0x55aa			2013-03-15
     errors            :                                         finished				-
     expvar            : fairlyblank		2013-07-16	finished
-    flag              : wankai			-
+    flag              : faberliu		2014-11-10  finished
     fmt               : liudch			2013-03-08	finished
     go                : ###				-
         - ast         : ###				-
